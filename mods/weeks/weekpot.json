@@ -1,0 +1,58 @@
+{
+	"storyName": "Funkin' in the Alley",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"potmenu",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Lukewarm",
+			"pot",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"Crackle",
+			"pot",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"Boiling Point",
+			"pot",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"No Villains",
+			"pot",
+			[
+				51,
+				51,
+				51
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week Pot"
+}

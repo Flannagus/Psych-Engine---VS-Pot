@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				76,
+				264
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "pot left"
+		},
+		{
+			"offsets": [
+				-127,
+				196
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "pot down"
+		},
+		{
+			"offsets": [
+				7,
+				284
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pot up"
+		},
+		{
+			"offsets": [
+				-139,
+				225
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "pot right"
+		},
+		{
+			"offsets": [
+				-37,
+				243
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "pot idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pot",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "pot",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		102
+	],
+	"camera_position": [
+		20,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
