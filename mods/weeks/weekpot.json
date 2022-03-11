@@ -3,18 +3,14 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"potmenu",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Lukewarm",
@@ -42,17 +38,12 @@
 				51,
 				51
 			]
-		],
-		[
-			"No Villains",
-			"pot",
-			[
-				51,
-				51,
-				51
-			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"potmenu",
+		"bf",
+		"gf"
+	],
 	"weekName": "Week Pot"
 }

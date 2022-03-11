@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boppingDudes.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dudes0000" x="3" y="3" width="1208" height="434"/>
+	<SubTexture name="dudes0001" x="3" y="3" width="1208" height="434"/>
+	<SubTexture name="dudes0002" x="3" y="442" width="1207" height="434" frameX="-1" frameY="0" frameWidth="1208" frameHeight="434"/>
+	<SubTexture name="dudes0003" x="3" y="442" width="1207" height="434" frameX="-1" frameY="0" frameWidth="1208" frameHeight="434"/>
+	<SubTexture name="dudes0004" x="3" y="881" width="1203" height="434" frameX="-5" frameY="0" frameWidth="1208" frameHeight="434"/>
+	<SubTexture name="dudes0005" x="3" y="881" width="1203" height="434" frameX="-5" frameY="0" frameWidth="1208" frameHeight="434"/>
+</TextureAtlas>
